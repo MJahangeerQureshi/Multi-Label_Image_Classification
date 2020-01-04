@@ -11,5 +11,6 @@ This implementation follows the tutorial closely
 
 * Experimentation for improving Multi-Label Classification                                                                        : This implementation improves by focusing the classification on the most populated samples and employing a voting model for     classification 
 
-The __ Document lists the main additions to basic implementation to improve the model performance
+The LoggedChanges.pdf lists the main additions to basic implementation to improve the model performance. In addition a rather rudimentary webapp has been deployed to https://immense-garden-91840.herokuapp.com/ that can classify movie posters.
+
 
