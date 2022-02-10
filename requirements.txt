@@ -6,5 +6,5 @@ scikit-learn==0.22.1
 scipy==1.4.1
 sklearn==0.0
 streamlit==0.52.2
-tensorflow==1.14.0
+tensorflow==2.5.3
 
